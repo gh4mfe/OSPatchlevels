@@ -1,0 +1,98 @@
+[
+  {
+    "Title": "2020-01 Preview of Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4539601)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4539601",
+    "KBShort": "4539601",
+    "OSBuild": "6.1.7601.24545",
+    "KB": "4539601"
+  },
+  {
+    "Title": "2020-02 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4537820)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4537820",
+    "KBShort": "4537820",
+    "OSBuild": "6.1.7601.24548",
+    "KB": "4537820"
+  },
+  {
+    "Title": "2020-03 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4540688)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4540688",
+    "KBShort": "4540688",
+    "OSBuild": "6.1.7601.24549",
+    "KB": "4540688"
+  },
+  {
+    "Title": "2020-04 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4550964)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4550964",
+    "KBShort": "4550964",
+    "OSBuild": "6.1.7601.24552",
+    "KB": "4550964"
+  },
+  {
+    "Title": "2020-05 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4556836)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4556836",
+    "KBShort": "4556836",
+    "OSBuild": "6.1.7601.24553",
+    "KB": "4556836"
+  },
+  {
+    "Title": "2020-06 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4561643)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4561643",
+    "KBShort": "4561643",
+    "OSBuild": "6.1.7601.24556",
+    "KB": "4561643"
+  },
+  {
+    "Title": "2020-07 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4565524)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4565524",
+    "KBShort": "4565524",
+    "OSBuild": "6.1.7601.24557",
+    "KB": "4565524"
+  },
+  {
+    "Title": "2020-08 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4571729)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4571729",
+    "KBShort": "4571729",
+    "OSBuild": "6.1.7601.24559",
+    "KB": "4571729"
+  },
+  {
+    "Title": "2020-09 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4577051)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4577051",
+    "KBShort": "4577051",
+    "OSBuild": "6.1.7601.24560",
+    "KB": "4577051"
+  },
+  {
+    "Title": "2020-10 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4580345)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4580345",
+    "KBShort": "4580345",
+    "OSBuild": "6.1.7601.24561",
+    "KB": "4580345"
+  },
+  {
+    "Title": "2020-11 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4586827)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4586827",
+    "KBShort": "4586827",
+    "OSBuild": "6.1.7601.24562",
+    "KB": "4586827"
+  },
+  {
+    "Title": "2020-12 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4592471)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4592471",
+    "KBShort": "4592471",
+    "OSBuild": "6.1.7601.24563",
+    "KB": "4592471"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5000803)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5000803)",
+    "KBShort": "5000803",
+    "OSBuild": "10.0.14393.4283",
+    "KB": "5000803"
+  },
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5001633)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5001633)",
+    "KBShort": "5001633",
+    "OSBuild": "10.0.14393.4288",
+    "KB": "5001633"
+  },
+  {
+    "Title": "2021-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5001347)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5001347)",
+    "KBShort": "5001347",
+    "OSBuild": "10.0.14393.4350",
+    "KB": "5001347"
+  },
+  {
+    "Title": "2021-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5003197)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5003197)",
+    "KBShort": "5003197",
+    "OSBuild": "10.0.14393.4402",
+    "KB": "5003197"
+  },
+  {
+    "Title": "2021-06 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5003638)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5003638)",
+    "KBShort": "5003638",
+    "OSBuild": "10.0.14393.4467",
+    "KB": "5003638"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5004238)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5004238)",
+    "KBShort": "5004238",
+    "OSBuild": "10.0.14393.4530",
+    "KB": "5004238"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5004948)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5004948)",
+    "KBShort": "5004948",
+    "OSBuild": "10.0.14393.4470",
+    "KB": "5004948"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5005393)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5005393)",
+    "KBShort": "5005393",
+    "OSBuild": "10.0.14393.4532",
+    "KB": "5005393"
+  },
+  {
+    "Title": "2021-08 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5005043)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5005043)",
+    "KBShort": "5005043",
+    "OSBuild": "10.0.14393.4583",
+    "KB": "5005043"
+  },
+  {
+    "Title": "2021-09 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5005573)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5005573)",
+    "KBShort": "5005573",
+    "OSBuild": "10.0.14393.4651",
+    "KB": "5005573"
+  },
+  {
+    "Title": "2021-10 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5006669)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5006669)",
+    "KBShort": "5006669",
+    "OSBuild": "10.0.14393.4704",
+    "KB": "5006669"
+  },
+  {
+    "Title": "2021-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5007192)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5007192)",
+    "KBShort": "5007192",
+    "OSBuild": "10.0.14393.4770",
+    "KB": "5007192"
+  },
+  {
+    "Title": "2021-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5008601)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5008601)",
+    "KBShort": "5008601",
+    "OSBuild": "10.0.14393.4771",
+    "KB": "5008601"
+  },
+  {
+    "Title": "2021-12 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5008207)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5008207)",
+    "KBShort": "5008207",
+    "OSBuild": "10.0.14393.4825",
+    "KB": "5008207"
+  }
+]

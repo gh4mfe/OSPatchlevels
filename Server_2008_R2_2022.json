@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "2022-01 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5009610)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5009610",
+    "KBShort": "5009610",
+    "OSBuild": "6.1.7601.25827",
+    "KB": "5009610"
+  },
+  {
+    "Title": "2022-02 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5010404)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5010404",
+    "KBShort": "5010404",
+    "OSBuild": "6.1.7601.25860",
+    "KB": "5010404"
+  },
+  {
+    "Title": "2022-03 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5011552)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5011552",
+    "KBShort": "5011552",
+    "OSBuild": "6.1.7601.25895",
+    "KB": "5011552"
+  },
+  {
+    "Title": "2022-04 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5012626)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5012626",
+    "KBShort": "5012626",
+    "OSBuild": "6.1.7601.25920",
+    "KB": "5012626"
+  },
+  {
+    "Title": "2022-05 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5014012)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5014012",
+    "KBShort": "5014012",
+    "OSBuild": "6.1.7601.25954",
+    "KB": "5014012"
+  },
+  {
+    "Title": "2022-06 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5014748)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5014748",
+    "KBShort": "5014748",
+    "OSBuild": "6.1.7601.25983",
+    "KB": "5014748"
+  },
+  {
+    "Title": "2022-07 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5015861)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5015861",
+    "KBShort": "5015861",
+    "OSBuild": "6.1.7601.26022",
+    "KB": "5015861"
+  }
+]

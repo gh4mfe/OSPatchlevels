@@ -1,0 +1,170 @@
+[
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5000801)",
+    "Products": "Windows Server 2019 Datacenter: Azure Edition Hotpatch",
+    "KBFull": "(KB5000801)",
+    "KBShort": "5000801",
+    "OSBuild": "10.0.17784.1589",
+    "KB": "5000801"
+  },
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5000822)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5000822)",
+    "KBShort": "5000822",
+    "OSBuild": "10.0.17763.1817",
+    "KB": "5000822"
+  },
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5001568)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5001568)",
+    "KBShort": "5001568",
+    "OSBuild": "10.0.17763.1821",
+    "KB": "5001568"
+  },
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5001638)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5001638)",
+    "KBShort": "5001638",
+    "OSBuild": "10.0.17763.1823",
+    "KB": "5001638"
+  },
+  {
+    "Title": "2021-04 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5001342)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5001342)",
+    "KBShort": "5001342",
+    "OSBuild": "10.0.17763.1879",
+    "KB": "5001342"
+  },
+  {
+    "Title": "2021-04 Cumulative Update for Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5001343)",
+    "Products": "Windows Server 2019 Datacenter: Azure Edition Hotpatch",
+    "KBFull": "(KB5001343)",
+    "KBShort": "5001343",
+    "OSBuild": "10.0.17784.1645",
+    "KB": "5001343"
+  },
+  {
+    "Title": "2021-05 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5003171)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5003171)",
+    "KBShort": "5003171",
+    "OSBuild": "10.0.17763.1935",
+    "KB": "5003171"
+  },
+  {
+    "Title": "2021-05 Cumulative Update for Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5003188)",
+    "Products": "Windows Server 2019 Datacenter: Azure Edition Hotpatch",
+    "KBFull": "(KB5003188)",
+    "KBShort": "5003188",
+    "OSBuild": "10.0.17784.1705",
+    "KB": "5003188"
+  },
+  {
+    "Title": "2021-06 Cumulative Update for Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5003643)",
+    "Products": "Windows Server 2019 Datacenter: Azure Edition Hotpatch",
+    "KBFull": "(KB5003643)",
+    "KBShort": "5003643",
+    "OSBuild": "10.0.17784.1768",
+    "KB": "5003643"
+  },
+  {
+    "Title": "2021-06 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5003646)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5003646)",
+    "KBShort": "5003646",
+    "OSBuild": "10.0.17763.1999",
+    "KB": "5003646"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5004235)",
+    "Products": "Windows Server 2019 Datacenter: Azure Edition Hotpatch",
+    "KBFull": "(KB5004235)",
+    "KBShort": "5004235",
+    "OSBuild": "10.0.17784.1827",
+    "KB": "5004235"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5004244)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5004244)",
+    "KBShort": "5004244",
+    "OSBuild": "10.0.17763.2061",
+    "KB": "5004244"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5004947)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5004947)",
+    "KBShort": "5004947",
+    "OSBuild": "10.0.17763.2029",
+    "KB": "5004947"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5005008)",
+    "Products": "Windows Server 2019 Datacenter: Azure Edition Hotpatch",
+    "KBFull": "(KB5005008)",
+    "KBShort": "5005008",
+    "OSBuild": null,
+    "KB": "5005008"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5005394)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5005394)",
+    "KBShort": "5005394",
+    "OSBuild": null,
+    "KB": "5005394"
+  },
+  {
+    "Title": "2021-08 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5005030)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5005030)",
+    "KBShort": "5005030",
+    "OSBuild": "10.0.17763.2114",
+    "KB": "5005030"
+  },
+  {
+    "Title": "2021-08 Cumulative Update for Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5005042)",
+    "Products": "Windows Server 2019 Datacenter: Azure Edition Hotpatch",
+    "KBFull": "(KB5005042)",
+    "KBShort": "5005042",
+    "OSBuild": "10.0.17784.1884",
+    "KB": "5005042"
+  },
+  {
+    "Title": "2021-09 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5005568)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5005568)",
+    "KBShort": "5005568",
+    "OSBuild": "10.0.17763.2183",
+    "KB": "5005568"
+  },
+  {
+    "Title": "2021-11 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5007206)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5007206)",
+    "KBShort": "5007206",
+    "OSBuild": "10.0.17763.2300",
+    "KB": "5007206"
+  },
+  {
+    "Title": "2021-11 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5008602)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5008602)",
+    "KBShort": "5008602",
+    "OSBuild": "10.0.17763.2305",
+    "KB": "5008602"
+  },
+  {
+    "Title": "2021-12 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5008218)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5008218)",
+    "KBShort": "5008218",
+    "OSBuild": "10.0.17763.2366",
+    "KB": "5008218"
+  }
+]

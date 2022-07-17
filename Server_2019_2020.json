@@ -1,0 +1,66 @@
+[
+  {
+    "Title": "2020-01 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4534321)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4534321)",
+    "KBShort": "4534321",
+    "OSBuild": "Not applicable",
+    "KB": "4534321"
+  },
+  {
+    "Title": "2020-02 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4537818)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4537818)",
+    "KBShort": "4537818",
+    "OSBuild": "Not applicable",
+    "KB": "4537818"
+  },
+  {
+    "Title": "2020-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4541331)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4541331)",
+    "KBShort": "4541331",
+    "OSBuild": "Not applicable",
+    "KB": "4541331"
+  },
+  {
+    "Title": "2020-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4554354)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4554354)",
+    "KBShort": "4554354",
+    "OSBuild": "Not applicable",
+    "KB": "4554354"
+  },
+  {
+    "Title": "2020-04 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4550969)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4550969)",
+    "KBShort": "4550969",
+    "OSBuild": "Not applicable",
+    "KB": "4550969"
+  },
+  {
+    "Title": "2020-06 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4567513)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4567513)",
+    "KBShort": "4567513",
+    "OSBuild": "Not applicable",
+    "KB": "4567513"
+  },
+  {
+    "Title": "2020-11 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4586793)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4586793)",
+    "KBShort": "4586793",
+    "OSBuild": "Not applicable",
+    "KB": "4586793"
+  },
+  {
+    "Title": "2020-11 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4594442)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB4594442)",
+    "KBShort": "4594442",
+    "OSBuild": "Not applicable",
+    "KB": "4594442"
+  }
+]

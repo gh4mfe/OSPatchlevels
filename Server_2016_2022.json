@@ -1,0 +1,82 @@
+[
+  {
+    "Title": "2022-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5009546)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5009546)",
+    "KBShort": "5009546",
+    "OSBuild": "10.0.14393.4886",
+    "KB": "5009546"
+  },
+  {
+    "Title": "2022-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5010195)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5010195)",
+    "KBShort": "5010195",
+    "OSBuild": "10.0.14393.4827",
+    "KB": "5010195"
+  },
+  {
+    "Title": "2022-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5010790)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5010790)",
+    "KBShort": "5010790",
+    "OSBuild": "10.0.14393.4889",
+    "KB": "5010790"
+  },
+  {
+    "Title": "2022-02 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5010359)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5010359)",
+    "KBShort": "5010359",
+    "OSBuild": "10.0.14393.4946",
+    "KB": "5010359"
+  },
+  {
+    "Title": "2022-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5011495)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5011495)",
+    "KBShort": "5011495",
+    "OSBuild": "10.0.14393.5006",
+    "KB": "5011495"
+  },
+  {
+    "Title": "2022-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5012596)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5012596)",
+    "KBShort": "5012596",
+    "OSBuild": "10.0.14393.5066",
+    "KB": "5012596"
+  },
+  {
+    "Title": "2022-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5013952)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5013952)",
+    "KBShort": "5013952",
+    "OSBuild": "10.0.14393.5125",
+    "KB": "5013952"
+  },
+  {
+    "Title": "2022-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5015019)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5015019)",
+    "KBShort": "5015019",
+    "OSBuild": "10.0.14393.5127",
+    "KB": "5015019"
+  },
+  {
+    "Title": "2022-06 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5014702)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5014702)",
+    "KBShort": "5014702",
+    "OSBuild": "10.0.14393.5192",
+    "KB": "5014702"
+  },
+  {
+    "Title": "2022-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5015808)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB5015808)",
+    "KBShort": "5015808",
+    "OSBuild": "10.0.14393.5246",
+    "KB": "5015808"
+  }
+]

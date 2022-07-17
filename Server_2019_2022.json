@@ -1,0 +1,82 @@
+[
+  {
+    "Title": "2022-01 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5009557)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5009557)",
+    "KBShort": "5009557",
+    "OSBuild": "10.0.17763.2452",
+    "KB": "5009557"
+  },
+  {
+    "Title": "2022-01 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5010196)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5010196)",
+    "KBShort": "5010196",
+    "OSBuild": "10.0.17763.2369",
+    "KB": "5010196"
+  },
+  {
+    "Title": "2022-01 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5010791)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5010791)",
+    "KBShort": "5010791",
+    "OSBuild": "10.0.17763.2458",
+    "KB": "5010791"
+  },
+  {
+    "Title": "2022-02 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5010351)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5010351)",
+    "KBShort": "5010351",
+    "OSBuild": "10.0.17763.2565",
+    "KB": "5010351"
+  },
+  {
+    "Title": "2022-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5011503)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5011503)",
+    "KBShort": "5011503",
+    "OSBuild": "10.0.17763.2686",
+    "KB": "5011503"
+  },
+  {
+    "Title": "2022-04 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5012647)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5012647)",
+    "KBShort": "5012647",
+    "OSBuild": "10.0.17763.2803",
+    "KB": "5012647"
+  },
+  {
+    "Title": "2022-05 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5013941)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5013941)",
+    "KBShort": "5013941",
+    "OSBuild": "10.0.17763.2928",
+    "KB": "5013941"
+  },
+  {
+    "Title": "2022-05 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5015018)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5015018)",
+    "KBShort": "5015018",
+    "OSBuild": "10.0.17763.2931",
+    "KB": "5015018"
+  },
+  {
+    "Title": "2022-06 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5014692)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5014692)",
+    "KBShort": "5014692",
+    "OSBuild": "10.0.17763.3046",
+    "KB": "5014692"
+  },
+  {
+    "Title": "2022-07 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5015811)",
+    "Products": "Windows Server 2019",
+    "KBFull": "(KB5015811)",
+    "KBShort": "5015811",
+    "OSBuild": "10.0.17763.3165",
+    "KB": "5015811"
+  }
+]

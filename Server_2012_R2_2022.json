@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "2022-01 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5009624)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5009624)",
+    "KBShort": "5009624",
+    "OSBuild": "6.3.9600.20237",
+    "KB": "5009624"
+  },
+  {
+    "Title": "2022-02 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5010419)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5010419)",
+    "KBShort": "5010419",
+    "OSBuild": "6.3.9600.20269",
+    "KB": "5010419"
+  },
+  {
+    "Title": "2022-03 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5011564)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5011564)",
+    "KBShort": "5011564",
+    "OSBuild": "6.3.9600.20302",
+    "KB": "5011564"
+  },
+  {
+    "Title": "2022-04 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5012670)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5012670)",
+    "KBShort": "5012670",
+    "OSBuild": "6.3.9600.20334",
+    "KB": "5012670"
+  },
+  {
+    "Title": "2022-05 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5014011)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5014011)",
+    "KBShort": "5014011",
+    "OSBuild": "6.3.9600.20369",
+    "KB": "5014011"
+  },
+  {
+    "Title": "2022-06 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5014738)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5014738)",
+    "KBShort": "5014738",
+    "OSBuild": "6.3.9600.20396",
+    "KB": "5014738"
+  },
+  {
+    "Title": "2022-07 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5015874)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5015874)",
+    "KBShort": "5015874",
+    "OSBuild": "6.3.9600.20475",
+    "KB": "5015874"
+  }
+]

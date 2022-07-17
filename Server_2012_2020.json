@@ -1,0 +1,194 @@
+[
+  {
+    "Title": "2020-01 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4534283)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4534283)",
+    "KBShort": "4534283",
+    "OSBuild": "6.2.9200.22922",
+    "KB": "4534283"
+  },
+  {
+    "Title": "2020-01 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4534297)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4534297)",
+    "KBShort": "4534297",
+    "OSBuild": "6.3.9600.19538",
+    "KB": "4534297"
+  },
+  {
+    "Title": "2020-02 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4537814)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4537814)",
+    "KBShort": "4537814",
+    "OSBuild": "6.2.9200.22978",
+    "KB": "4537814"
+  },
+  {
+    "Title": "2020-02 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4537821)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4537821)",
+    "KBShort": "4537821",
+    "OSBuild": "6.3.9600.19629",
+    "KB": "4537821"
+  },
+  {
+    "Title": "2020-03 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4541509)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4541509)",
+    "KBShort": "4541509",
+    "OSBuild": "6.3.9600.19665",
+    "KB": "4541509"
+  },
+  {
+    "Title": "2020-03 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4541510)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4541510)",
+    "KBShort": "4541510",
+    "OSBuild": "6.2.9200.23009",
+    "KB": "4541510"
+  },
+  {
+    "Title": "2020-04 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4550917)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4550917)",
+    "KBShort": "4550917",
+    "OSBuild": "6.2.9200.23022",
+    "KB": "4550917"
+  },
+  {
+    "Title": "2020-04 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4550961)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4550961)",
+    "KBShort": "4550961",
+    "OSBuild": "6.3.9600.19678",
+    "KB": "4550961"
+  },
+  {
+    "Title": "2020-05 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4556840)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4556840)",
+    "KBShort": "4556840",
+    "OSBuild": "6.2.9200.23037",
+    "KB": "4556840"
+  },
+  {
+    "Title": "2020-05 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4556846)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4556846)",
+    "KBShort": "4556846",
+    "OSBuild": "6.3.9600.19697",
+    "KB": "4556846"
+  },
+  {
+    "Title": "2020-06 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4561612)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4561612)",
+    "KBShort": "4561612",
+    "OSBuild": "6.2.9200.23060",
+    "KB": "4561612"
+  },
+  {
+    "Title": "2020-06 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4561666)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4561666)",
+    "KBShort": "4561666",
+    "OSBuild": "6.3.9600.19724",
+    "KB": "4561666"
+  },
+  {
+    "Title": "2020-07 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4565537)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4565537)",
+    "KBShort": "4565537",
+    "OSBuild": "6.2.9200.23084",
+    "KB": "4565537"
+  },
+  {
+    "Title": "2020-07 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4565541)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4565541)",
+    "KBShort": "4565541",
+    "OSBuild": "6.3.9600.19761",
+    "KB": "4565541"
+  },
+  {
+    "Title": "2020-08 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4571703)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4571703)",
+    "KBShort": "4571703",
+    "OSBuild": "6.3.9600.19780",
+    "KB": "4571703"
+  },
+  {
+    "Title": "2020-08 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4571736)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4571736)",
+    "KBShort": "4571736",
+    "OSBuild": "6.2.9200.23118",
+    "KB": "4571736"
+  },
+  {
+    "Title": "2020-09 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4577038)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4577038)",
+    "KBShort": "4577038",
+    "OSBuild": "6.2.9200.23149",
+    "KB": "4577038"
+  },
+  {
+    "Title": "2020-09 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4577066)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4577066)",
+    "KBShort": "4577066",
+    "OSBuild": "6.3.9600.19812",
+    "KB": "4577066"
+  },
+  {
+    "Title": "2020-10 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4580347)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4580347)",
+    "KBShort": "4580347",
+    "OSBuild": "6.3.9600.19846",
+    "KB": "4580347"
+  },
+  {
+    "Title": "2020-10 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4580382)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4580382)",
+    "KBShort": "4580382",
+    "OSBuild": "6.2.9200.23179",
+    "KB": "4580382"
+  },
+  {
+    "Title": "2020-11 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4586834)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4586834)",
+    "KBShort": "4586834",
+    "OSBuild": "6.2.9200.23179",
+    "KB": "4586834"
+  },
+  {
+    "Title": "2020-11 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4586845)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4586845)",
+    "KBShort": "4586845",
+    "OSBuild": "6.3.9600.19846",
+    "KB": "4586845"
+  },
+  {
+    "Title": "2020-12 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4592468)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4592468)",
+    "KBShort": "4592468",
+    "OSBuild": "6.2.9200.23209",
+    "KB": "4592468"
+  },
+  {
+    "Title": "2020-12 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4592484)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4592484)",
+    "KBShort": "4592484",
+    "OSBuild": "6.3.9600.19880",
+    "KB": "4592484"
+  }
+]

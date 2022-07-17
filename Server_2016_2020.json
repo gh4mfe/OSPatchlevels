@@ -1,0 +1,74 @@
+[
+  {
+    "Title": "2020-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4534307)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4534307)",
+    "KBShort": "4534307",
+    "OSBuild": "10.0.14393.3471",
+    "KB": "4534307"
+  },
+  {
+    "Title": "2020-01 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4534308)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4534308)",
+    "KBShort": "4534308",
+    "OSBuild": null,
+    "KB": "4534308"
+  },
+  {
+    "Title": "2020-02 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4537762)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4537762)",
+    "KBShort": "4537762",
+    "OSBuild": "10.0.17134.1304",
+    "KB": "4537762"
+  },
+  {
+    "Title": "2020-02 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4537795)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4537795)",
+    "KBShort": "4537795",
+    "OSBuild": "10.0.17134.1345",
+    "KB": "4537795"
+  },
+  {
+    "Title": "2020-02 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4537806)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4537806)",
+    "KBShort": "4537806",
+    "OSBuild": "10.0.14393.3541",
+    "KB": "4537806"
+  },
+  {
+    "Title": "2020-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4541329)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4541329)",
+    "KBShort": "4541329",
+    "OSBuild": "10.0.14393.3595",
+    "KB": "4541329"
+  },
+  {
+    "Title": "2020-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4550947)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4550947)",
+    "KBShort": "4550947",
+    "OSBuild": "10.0.14393.3659",
+    "KB": "4550947"
+  },
+  {
+    "Title": "2020-06 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4567517)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4567517)",
+    "KBShort": "4567517",
+    "OSBuild": "10.0.14393.3755",
+    "KB": "4567517"
+  },
+  {
+    "Title": "2020-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4594441)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4594441)",
+    "KBShort": "4594441",
+    "OSBuild": "10.0.14393.4048",
+    "KB": "4594441"
+  }
+]

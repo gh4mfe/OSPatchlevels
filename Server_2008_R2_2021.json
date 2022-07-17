@@ -1,0 +1,98 @@
+[
+  {
+    "Title": "2021-01 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4598279)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4598279",
+    "KBShort": "4598279",
+    "OSBuild": "6.1.7601.24564",
+    "KB": "4598279"
+  },
+  {
+    "Title": "2021-02 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB4601347)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB4601347",
+    "KBShort": "4601347",
+    "OSBuild": "6.1.7601.24565",
+    "KB": "4601347"
+  },
+  {
+    "Title": "2021-03 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5000841)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5000841",
+    "KBShort": "5000841",
+    "OSBuild": "6.1.7601.24566",
+    "KB": "5000841"
+  },
+  {
+    "Title": "2021-04 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5001335)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5001335",
+    "KBShort": "5001335",
+    "OSBuild": "6.1.7601.24576",
+    "KB": "5001335"
+  },
+  {
+    "Title": "2021-05 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5003233)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5003233",
+    "KBShort": "5003233",
+    "OSBuild": "6.1.7601.24596",
+    "KB": "5003233"
+  },
+  {
+    "Title": "2021-06 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5003667)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5003667",
+    "KBShort": "5003667",
+    "OSBuild": "6.1.7601.25631",
+    "KB": "5003667"
+  },
+  {
+    "Title": "2021-07 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5004289)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5004289",
+    "KBShort": "5004289",
+    "OSBuild": "6.1.7601.25661",
+    "KB": "5004289"
+  },
+  {
+    "Title": "2021-08 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5005088)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5005088",
+    "KBShort": "5005088",
+    "OSBuild": "6.1.7601.25682",
+    "KB": "5005088"
+  },
+  {
+    "Title": "2021-09 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5005633)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5005633",
+    "KBShort": "5005633",
+    "OSBuild": "6.1.7601.25704",
+    "KB": "5005633"
+  },
+  {
+    "Title": "2021-10 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5006743)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5006743",
+    "KBShort": "5006743",
+    "OSBuild": "6.1.7601.25740",
+    "KB": "5006743"
+  },
+  {
+    "Title": "2021-11 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5007236)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5007236",
+    "KBShort": "5007236",
+    "OSBuild": "6.1.7601.25767",
+    "KB": "5007236"
+  },
+  {
+    "Title": "2021-12 Security Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems (KB5008244)",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5008244",
+    "KBShort": "5008244",
+    "OSBuild": "6.1.7601.25792",
+    "KB": "5008244"
+  }
+]

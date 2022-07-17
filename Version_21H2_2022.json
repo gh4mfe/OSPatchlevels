@@ -1,0 +1,74 @@
+[
+  {
+    "Title": "2022-01 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5009555)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5009555)",
+    "KBShort": "5009555",
+    "OSBuild": "10.0.20348.469",
+    "KB": "5009555"
+  },
+  {
+    "Title": "2022-01 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5010796)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5010796)",
+    "KBShort": "5010796",
+    "OSBuild": "10.0.20348.473",
+    "KB": "5010796"
+  },
+  {
+    "Title": "2022-02 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5010354)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5010354)",
+    "KBShort": "5010354",
+    "OSBuild": "10.0.20348.524",
+    "KB": "5010354"
+  },
+  {
+    "Title": "2022-03 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5011497)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5011497)",
+    "KBShort": "5011497",
+    "OSBuild": "10.0.20348.587",
+    "KB": "5011497"
+  },
+  {
+    "Title": "2022-04 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5012604)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5012604)",
+    "KBShort": "5012604",
+    "OSBuild": "10.0.20348.643",
+    "KB": "5012604"
+  },
+  {
+    "Title": "2022-05 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5013944)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5013944)",
+    "KBShort": "5013944",
+    "OSBuild": "10.0.20348.707",
+    "KB": "5013944"
+  },
+  {
+    "Title": "2022-05 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5015013)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5015013)",
+    "KBShort": "5015013",
+    "OSBuild": "10.0.20348.709",
+    "KB": "5015013"
+  },
+  {
+    "Title": "2022-06 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5014678)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5014678)",
+    "KBShort": "5014678",
+    "OSBuild": "10.0.20348.768",
+    "KB": "5014678"
+  },
+  {
+    "Title": "2022-07 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5015827)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5015827)",
+    "KBShort": "5015827",
+    "OSBuild": "10.0.20348.825",
+    "KB": "5015827"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "Title": "2021-01 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4598278)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4598278)",
+    "KBShort": "4598278",
+    "OSBuild": "6.2.9200.23246",
+    "KB": "4598278"
+  },
+  {
+    "Title": "2021-01 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4598285)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4598285)",
+    "KBShort": "4598285",
+    "OSBuild": "6.3.9600.19913",
+    "KB": "4598285"
+  },
+  {
+    "Title": "2021-02 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB4601348)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB4601348)",
+    "KBShort": "4601348",
+    "OSBuild": "6.2.9200.23272",
+    "KB": "4601348"
+  },
+  {
+    "Title": "2021-02 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4601384)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB4601384)",
+    "KBShort": "4601384",
+    "OSBuild": "6.3.9600.19939",
+    "KB": "4601384"
+  },
+  {
+    "Title": "2021-03 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5000847)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5000847)",
+    "KBShort": "5000847",
+    "OSBuild": "6.2.9200.23297",
+    "KB": "5000847"
+  },
+  {
+    "Title": "2021-03 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5000848)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5000848)",
+    "KBShort": "5000848",
+    "OSBuild": "6.3.9600.19962",
+    "KB": "5000848"
+  },
+  {
+    "Title": "2021-04 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5001382)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5001382)",
+    "KBShort": "5001382",
+    "OSBuild": "6.3.9600.19994",
+    "KB": "5001382"
+  },
+  {
+    "Title": "2021-04 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5001387)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5001387)",
+    "KBShort": "5001387",
+    "OSBuild": "6.2.9200.23327",
+    "KB": "5001387"
+  },
+  {
+    "Title": "2021-05 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5003208)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5003208)",
+    "KBShort": "5003208",
+    "OSBuild": "6.2.9200.23327",
+    "KB": "5003208"
+  },
+  {
+    "Title": "2021-05 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5003209)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5003209)",
+    "KBShort": "5003209",
+    "OSBuild": "6.3.9600.20012",
+    "KB": "5003209"
+  },
+  {
+    "Title": "2021-06 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5003671)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5003671)",
+    "KBShort": "5003671",
+    "OSBuild": "6.3.9600.20040",
+    "KB": "5003671"
+  },
+  {
+    "Title": "2021-06 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5003697)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5003697)",
+    "KBShort": "5003697",
+    "OSBuild": "6.2.9200.23376",
+    "KB": "5003697"
+  },
+  {
+    "Title": "2021-07 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5004294)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5004294)",
+    "KBShort": "5004294",
+    "OSBuild": "6.2.9200.23405",
+    "KB": "5004294"
+  },
+  {
+    "Title": "2021-07 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5004298)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5004298)",
+    "KBShort": "5004298",
+    "OSBuild": "6.3.9600.20065",
+    "KB": "5004298"
+  },
+  {
+    "Title": "2021-07 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5004954)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5004954)",
+    "KBShort": "5004954",
+    "OSBuild": "6.3.9600.20040",
+    "KB": "5004954"
+  },
+  {
+    "Title": "2021-07 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5004956)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5004956)",
+    "KBShort": "5004956",
+    "OSBuild": "6.2.9200.23376",
+    "KB": "5004956"
+  },
+  {
+    "Title": "2021-08 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5005076)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5005076)",
+    "KBShort": "5005076",
+    "OSBuild": "6.3.9600.20090",
+    "KB": "5005076"
+  },
+  {
+    "Title": "2021-08 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5005099)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5005099)",
+    "KBShort": "5005099",
+    "OSBuild": "6.2.9200.23431",
+    "KB": "5005099"
+  },
+  {
+    "Title": "2021-09 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5005613)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5005613)",
+    "KBShort": "5005613",
+    "OSBuild": "6.3.9600.20111",
+    "KB": "5005613"
+  },
+  {
+    "Title": "2021-09 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5005623)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5005623)",
+    "KBShort": "5005623",
+    "OSBuild": "6.2.9200.23454",
+    "KB": "5005623"
+  },
+  {
+    "Title": "2021-10 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5006714)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5006714)",
+    "KBShort": "5006714",
+    "OSBuild": "6.3.9600.20144",
+    "KB": "5006714"
+  },
+  {
+    "Title": "2021-10 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5006739)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5006739)",
+    "KBShort": "5006739",
+    "OSBuild": "6.2.9200.23489",
+    "KB": "5006739"
+  },
+  {
+    "Title": "2021-11 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5007247)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5007247)",
+    "KBShort": "5007247",
+    "OSBuild": "6.3.9600.20173",
+    "KB": "5007247"
+  },
+  {
+    "Title": "2021-11 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5007260)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5007260)",
+    "KBShort": "5007260",
+    "OSBuild": "6.2.9200.23516",
+    "KB": "5007260"
+  },
+  {
+    "Title": "2021-12 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB5008263)",
+    "Products": "Windows Server 2012 R2",
+    "KBFull": "(KB5008263)",
+    "KBShort": "5008263",
+    "OSBuild": "6.3.9600.20201",
+    "KB": "5008263"
+  },
+  {
+    "Title": "2021-12 Security Monthly Quality Rollup for Windows Server 2012 for x64-based Systems (KB5008277)",
+    "Products": "Windows Server 2012",
+    "KBFull": "(KB5008277)",
+    "KBShort": "5008277",
+    "OSBuild": "6.2.9200.23543",
+    "KB": "5008277"
+  }
+]

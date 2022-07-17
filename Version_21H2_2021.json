@@ -1,0 +1,18 @@
+[
+  {
+    "Title": "2021-08 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5005039)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5005039)",
+    "KBShort": "5005039",
+    "OSBuild": "10.0.20348.169",
+    "KB": "5005039"
+  },
+  {
+    "Title": "2021-09 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5005575)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5005575)",
+    "KBShort": "5005575",
+    "OSBuild": "10.0.20348.230",
+    "KB": "5005575"
+  }
+]

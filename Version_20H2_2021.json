@@ -1,0 +1,122 @@
+[
+  {
+    "Title": "2021-01 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB4598242)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB4598242)",
+    "KBShort": "4598242",
+    "OSBuild": "Not applicable",
+    "KB": "4598242"
+  },
+  {
+    "Title": "2021-02 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB4601319)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB4601319)",
+    "KBShort": "4601319",
+    "OSBuild": "10.0.19041.804",
+    "KB": "4601319"
+  },
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5000802)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5000802)",
+    "KBShort": "5000802",
+    "OSBuild": "10.0.19041.867",
+    "KB": "5000802"
+  },
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5001567)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5001567)",
+    "KBShort": "5001567",
+    "OSBuild": "10.0.19041.868",
+    "KB": "5001567"
+  },
+  {
+    "Title": "2021-03 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5001649)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5001649)",
+    "KBShort": "5001649",
+    "OSBuild": "10.0.19041.870",
+    "KB": "5001649"
+  },
+  {
+    "Title": "2021-04 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5001330)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5001330)",
+    "KBShort": "5001330",
+    "OSBuild": "10.0.19041.928",
+    "KB": "5001330"
+  },
+  {
+    "Title": "2021-05 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5003173)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5003173)",
+    "KBShort": "5003173",
+    "OSBuild": "10.0.19041.985",
+    "KB": "5003173"
+  },
+  {
+    "Title": "2021-06 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5003637)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5003637)",
+    "KBShort": "5003637",
+    "OSBuild": "10.0.19041.1052",
+    "KB": "5003637"
+  },
+  {
+    "Title": "2021-06 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5004476)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5004476)",
+    "KBShort": "5004476",
+    "OSBuild": "10.0.19041.1055",
+    "KB": "5004476"
+  },
+  {
+    "Title": "2021-06 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5004760)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5004760)",
+    "KBShort": "5004760",
+    "OSBuild": "10.0.19041.1082",
+    "KB": "5004760"
+  },
+  {
+    "Title": "2021-07 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5004237)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5004237)",
+    "KBShort": "5004237",
+    "OSBuild": "10.0.19041.1110",
+    "KB": "5004237"
+  },
+  {
+    "Title": "2021-08 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5005033)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5005033)",
+    "KBShort": "5005033",
+    "OSBuild": "10.0.19041.1165",
+    "KB": "5005033"
+  },
+  {
+    "Title": "2021-09 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5005565)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5005565)",
+    "KBShort": "5005565",
+    "OSBuild": "10.0.19041.1237",
+    "KB": "5005565"
+  },
+  {
+    "Title": "2021-11 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5007186)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5007186)",
+    "KBShort": "5007186",
+    "OSBuild": "10.0.19041.1348",
+    "KB": "5007186"
+  },
+  {
+    "Title": "2021-12 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5008212)",
+    "Products": "Windows Server,  version 1903 and later",
+    "KBFull": "(KB5008212)",
+    "KBShort": "5008212",
+    "OSBuild": "10.0.19041.1415",
+    "KB": "5008212"
+  }
+]
