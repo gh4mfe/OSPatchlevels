@@ -1,0 +1,154 @@
+[
+  {
+    "Title": "2022-01  CUSTOM Unknown 9600.20246",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "9600.20246",
+    "KBShort": "9600.20246",
+    "OSBuild": "6.3.9600.20246",
+    "KB": "9600.20246"
+  },
+    {
+    "Title": "2021-01 CUSTOM  Unknown 9600.20174",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "9600.20174",
+    "KBShort": "9600.20174",
+    "OSBuild": "6.3.9600.20174",
+    "KB": "9600.20174"
+  },
+    {
+    "Title": "2021-09  CUSTOM Unknown 9600.20120",
+    "Product": "Windows Server 2008 R2",
+    "KBFull": "KB5006672",
+    "KBShort": "5006672",
+    "OSBuild": "6.3.9600.20120",
+    "KB": "5006672"
+  },
+      {
+    "Title": "2021-10  CUSTOM October 12, 2021—KB5006672 (OS Build 17763.2237)",
+    "Product": "Windows Server 2019",
+    "KBFull": "17763.2237",
+    "KBShort": "17763.2237",
+    "OSBuild": "10.0.17763.2237",
+    "KB": "17763.2237"
+  },
+      {
+    "Title": "2021-04  CUSTOM April 22, 2021—KB5001384 (OS Build 17763.1911) Preview",
+    "Product": "Windows Server 2019",
+    "KBFull": "KB5001384",
+    "KBShort": "5001384",
+    "OSBuild": "10.0.17763.1911",
+    "KB": "5001384"
+  },
+      {
+    "Title": "2021-04  CUSTOM Unknown 9600.19941",
+    "Product": "Windows Server 2012 R2",
+    "KBFull": "9600.19941",
+    "KBShort": "9600.19941",
+    "OSBuild": "10.0.9600.19941",
+    "KB": "9600.19941"
+  },
+	{
+    "Title": "2021-02  CUSTOM February 16, 2021-KB4601383 (OS Build 17763.1790) Preview",
+    "Product": "Windows Server 2019",
+    "KBFull": "KB4601383",
+    "KBShort": "4601383",
+    "OSBuild": "10.0.17763.1790",
+    "KB": "4601383"
+  },
+      {
+    "Title": "2021-02 CUSTOM  February 9, 2021—KB4601345 (OS Build 17763.1757) - EXPIRED",
+    "Product": "Windows Server 2019",
+    "KBFull": "KB4601345",
+    "KBShort": "4601345",
+    "OSBuild": "10.0.17763.1757",
+    "KB": "4601345"
+  },
+      {
+    "Title": "2020-12  CUSTOM December 8, 2020—KB4592440 (OS Build 17763.1637) - EXPIRED",
+    "Product": "Windows Server 2019, Version 1809",
+    "KBFull": "KB4592440",
+    "KBShort": "4592440",
+    "OSBuild": "10.0.17763.1637",
+    "KB": "4592440"
+  },
+      {
+    "Title": "2020-12 CUSTOM  December 8, 2020—KB4593226 (OS Build 14393.4104) - EXPIRED",
+    "Product": "Windows Server 2016, Version 1607",
+    "KBFull": "KB4593226",
+    "KBShort": "4593226",
+    "OSBuild": "10.0.14393.4104",
+    "KB": "4593226"
+  },
+      {
+    "Title": "2020-10 CUSTOM October 20, 2020—KB4580390 (OS Build 17763.1554) Preview",
+    "Product": "Windows Server 2019, Version 1809",
+    "KBFull": "KB4580390",
+    "KBShort": "4580390",
+    "OSBuild": "10.0.17763.1554",
+    "KB": "4580390"
+  },  
+      {
+    "Title": "2020-10 CUSTOM October 13, 2020—KB4577668 (OS Build 17763.1518) - EXPIRED",
+    "Product": "Windows Server 2019, Version 1809",
+    "KBFull": "KB4577668",
+    "KBShort": "4577668",
+    "OSBuild": "10.0.17763.1518",
+    "KB": "4577668"
+  },  
+      {
+    "Title": "2020-10 CUSTOM October 13, 2020—KB4580346 (OS Build 14393.3986) - EXPIRED",
+    "Product": "Windows Server 2016, Version 1607",
+    "KBFull": "KB4580346",
+    "KBShort": "4580346",
+    "OSBuild": "10.0.14393.3986",
+    "KB": "4580346"
+  },  
+      {
+    "Title": "2020-09 CUSTOM September 8, 2020—KB4577015 (OS Build 14393.3930)",
+    "Product": "Windows Server 2016, Version 1607",
+    "KBFull": "KB4577015",
+    "KBShort": "4577015",
+    "OSBuild": "10.0.14393.3930",
+    "KB": "4577015"
+  },  
+      {
+    "Title": "2020-09 CUSTOM March 10, 2020—KB4540670 (OS Build 14393.3564)",
+    "Product": "Windows Server 2016, Version 1607",
+    "KBFull": "KB4540670",
+    "KBShort": "4540670",
+    "OSBuild": "10.0.14393.3564",
+    "KB": "4540670"
+  },   
+      {
+    "Title": "2021-02 CUSTOM February 9, 2021—KB4601318 (OS Build 14393.4225) - EXPIRED",
+    "Product": "Windows Server 2016, Version 1607",
+    "KBFull": "KB4601318",
+    "KBShort": "4601318",
+    "OSBuild": "10.0.14393.4225",
+    "KB": "4601318"
+  },    
+      {
+    "Title": "2021-02 CUSTOM February 11, 2020—KB4537764 (OS Build 14393.3504)",
+    "Product": "Windows Server 2016, Version 1607",
+    "KBFull": "KB4537764",
+    "KBShort": "4537764",
+    "OSBuild": "10.0.14393.3504",
+    "KB": "4537764"
+  },    
+      {
+    "Title": "2019-10 CUSTOM October 8, 2019—KB4519338 (OS Build 17763.805)",
+    "Product": "Windows Server 2019, Version 1809",
+    "KBFull": "KB4519338",
+    "KBShort": "4519338",
+    "OSBuild": "10.0.17763.805",
+    "KB": "4519338"
+  },   
+      {
+    "Title": "2019-03 CUSTOM March 12, 2019—KB4489899 (OS Build 17763.379)",
+    "Product": "Windows Server 2019, Version 1809",
+    "KBFull": "KB4489899",
+    "KBShort": "4489899",
+    "OSBuild": "10.0.17763.379",
+    "KB": "4489899"
+  } 
+]
