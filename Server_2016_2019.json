@@ -1,0 +1,154 @@
+[
+  {
+    "Title": "2019-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4480967)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4480967)",
+    "KBShort": "4480967",
+    "OSBuild": "10.0.16299.936",
+    "KB": "4480967"
+  },
+  {
+    "Title": "2019-01 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4480976)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4480976)",
+    "KBShort": "4480976",
+    "OSBuild": "10.0.17134.556",
+    "KB": "4480976"
+  },
+  {
+    "Title": "2019-02 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4487021)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4487021)",
+    "KBShort": "4487021",
+    "OSBuild": "10.0.16299.1004",
+    "KB": "4487021"
+  },
+  {
+    "Title": "2019-02 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4487029)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4487029)",
+    "KBShort": "4487029",
+    "OSBuild": "10.0.17134.590",
+    "KB": "4487029"
+  },
+  {
+    "Title": "2019-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4489890)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4489890)",
+    "KBShort": "4489890",
+    "OSBuild": "10.0.16299.1059",
+    "KB": "4489890"
+  },
+  {
+    "Title": "2019-03 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4489894)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4489894)",
+    "KBShort": "4489894",
+    "OSBuild": "10.0.17134.648",
+    "KB": "4489894"
+  },
+  {
+    "Title": "2019-04 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4493437)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4493437)",
+    "KBShort": "4493437",
+    "OSBuild": "10.0.17134.753",
+    "KB": "4493437"
+  },
+  {
+    "Title": "2019-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4493440)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4493440)",
+    "KBShort": "4493440",
+    "OSBuild": "10.0.16299.1087",
+    "KB": "4493440"
+  },
+  {
+    "Title": "2019-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4493470)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4493470)",
+    "KBShort": "4493470",
+    "OSBuild": "10.0.14393.2906",
+    "KB": "4493470"
+  },
+  {
+    "Title": "2019-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4499418)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4499418)",
+    "KBShort": "4499418",
+    "OSBuild": "10.0.14393.2906",
+    "KB": "4499418"
+  },
+  {
+    "Title": "2019-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4494440)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4494440)",
+    "KBShort": "4494440",
+    "OSBuild": "10.0.14393.2969",
+    "KB": "4494440"
+  },
+  {
+    "Title": "2019-05 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4499183)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4499183)",
+    "KBShort": "4499183",
+    "OSBuild": "10.0.17134.799",
+    "KB": "4499183"
+  },
+  {
+    "Title": "2019-05 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4505064)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4505064)",
+    "KBShort": "4505064",
+    "OSBuild": "10.0.17134.765",
+    "KB": "4505064"
+  },
+  {
+    "Title": "2019-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4503288)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4503288)",
+    "KBShort": "4503288",
+    "OSBuild": "10.0.17134.799",
+    "KB": "4503288"
+  },
+  {
+    "Title": "2019-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4509478)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4509478)",
+    "KBShort": "4509478",
+    "OSBuild": "10.0.17134.799",
+    "KB": "4509478"
+  },
+  {
+    "Title": "2019-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4507466)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4507466)",
+    "KBShort": "4507466",
+    "OSBuild": "10.0.17134.915",
+    "KB": "4507466"
+  },
+  {
+    "Title": "2019-08 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4512509)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4512509)",
+    "KBShort": "4512509",
+    "OSBuild": "10.0.17134.982",
+    "KB": "4512509"
+  },
+  {
+    "Title": "2019-09 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4516045)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4516045)",
+    "KBShort": "4516045",
+    "OSBuild": null,
+    "KB": "4516045"
+  },
+  {
+    "Title": "2019-10 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4519978)",
+    "Products": "Windows Server 2016",
+    "KBFull": "(KB4519978)",
+    "KBShort": "4519978",
+    "OSBuild": "10.0.17134.1098",
+    "KB": "4519978"
+  }
+]

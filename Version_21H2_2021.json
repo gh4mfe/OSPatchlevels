@@ -14,5 +14,29 @@
     "KBShort": "5005575",
     "OSBuild": "10.0.20348.230",
     "KB": "5005575"
+  },
+  {
+    "Title": "2021-10 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5006699)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5006699)",
+    "KBShort": "5006699",
+    "OSBuild": "10.0.20348.288",
+    "KB": "5006699"
+  },
+  {
+    "Title": "2021-11 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5007205)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5007205)",
+    "KBShort": "5007205",
+    "OSBuild": "10.0.20348.350",
+    "KB": "5007205"
+  },
+  {
+    "Title": "2021-12 Cumulative Update for Microsoft server operating system version 21H2 for x64-based Systems (KB5008223)",
+    "Products": "Microsoft Server operating system-21H2",
+    "KBFull": "(KB5008223)",
+    "KBShort": "5008223",
+    "OSBuild": "10.0.20348.405",
+    "KB": "5008223"
   }
 ]

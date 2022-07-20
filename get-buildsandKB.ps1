@@ -2,6 +2,7 @@ $projectdir = "E:\Ordnung\Marco\Git\OSPatchlevels\"
 $Projectdir = $psscriptroot
 pushd $projectdir
 Import-Module "E:\Ordnung\Marco\Git\x_repos\Join\Join.psm1" -force
+import-module "E:\Ordnung\Marco\Git\x_repos\MSCatalog\MSCatalog\MSCatalog.psm1"
 
 function get-MonthlyUpdateKB {
     param (
@@ -10,7 +11,8 @@ function get-MonthlyUpdateKB {
        [string]$Month      
     )
     $OSpatches = @()
-    $OSpatches = Get-MSCatalogUpdate -Search "$Year-$Month $OS" | Where-Object {$_.Products -like "*$OS*" -or $_.Products -like "*Windows Server*" -or $_.Products -like "*Microsoft Server*"} | Where-Object {$_.Title -like "*Monthly*" -or $_.Title -like "*Cumulative*"} | Where-Object {$_.Title -notlike "*.NET*" -and $_.title -notlike "*Preview*"  -and $_.title -notlike "*Internet*"} 
+    #$OSpatches = Get-MSCatalogUpdate -Search "$Year-$Month $OS" | Where-Object {$_.Products -like "*$OS*" -or $_.Products -like "*Windows Server*" -or $_.Products -like "*Microsoft Server*"} | Where-Object {$_.Title -like "*Monthly*" -or $_.Title -like "*Cumulative*"} | Where-Object {$_.Title -notlike "*.NET*" -and $_.title -notlike "*Preview*"  -and $_.title -notlike "*Internet*"} 
+    $OSpatches = Get-MSCatalogUpdate -Search "$Year-$Month $OS" -AllPages | Where-Object {$_.Products -like "*$OS*" -or $_.Products -like "*Windows Server*" -or $_.Products -like "*Microsoft Server*"} | Where-Object {$_.Title -like "*Monthly*" -or $_.Title -like "*Cumulative*" <#-or $_.Title -like "*Update*"#>} | Where-Object {$_.Title -notlike "*.NET*" -and $_.title -notlike "*Preview*"  -and $_.title -notlike "*Internet*" -and $_.title -notlike "*Stack*"} 
      
     if ($null -ne $OSpatches) {
         $return = @()
@@ -36,6 +38,7 @@ function get-MonthlyUpdateKB {
     else {
        continue
     }
+    write-host -ForegroundColor DarkMagenta $($return | Sort-Object KBFull -Unique)
     return $($return | Sort-Object KBFull -Unique)
  }
  
@@ -68,22 +71,29 @@ function get-MonthlyUpdateKB {
  }
 
  #https://www.gaijin.at/de/infos/windows-versionsnummern
- $OS = "Server 2019"#"Server 2016","Server 2008 R2"
+ $OS = ("Server 2016")
+ #"Server 2019"#"Server 2016","Server 2008 R2","Version 21H2"
+ $Year = "2021"
  $month = "01"
  #$versions = ("Server 2012","Server 2012 R2")
  #$versions = ("Version 2004","Version 20H2",)
- $versions =  ("Version 21H2")
- $Years = ("2020","2021","2022")
+ $versions =  ("Server 2016")
+ $Years = ("2019","2020","2021","2022")
  
  
 foreach ($OS in $versions) {
+    Write-Host -ForegroundColor Green $OS
     foreach ($Year in $Years) {
         if ($OS -like "*21H2*" -and $Year -eq "2020" ) {continue}
+        if ($OS -notlike "*2016*" -and $Year -ne "2019" ) {continue}
+        Write-Host -ForegroundColor Green $Year
         $allkbs = @()
         for ($i=1; $i -le 9; $i++) {
+            Write-Host -ForegroundColor Green "get-MonthlyUpdateKB -OS $OS -Year $Year -Month $("0"+$i)"
             $allkbs += get-MonthlyUpdateKB -OS $OS -Year $Year -Month $("0"+$i)
         }
         for ($i=10; $i -le 12; $i++) {
+            Write-Host -ForegroundColor Green "get-MonthlyUpdateKB -OS $OS -Year $Year -Month $($i)"
             $allkbs += get-MonthlyUpdateKB -OS $OS -Year $Year -Month $($i)
         }
         $allBuilds  = @()
@@ -101,3 +111,4 @@ foreach ($OS in $versions) {
         $buildsandkb | ConvertTo-Json | out-file .\$($(($OS).Replace(" ","_"))+"_"+$Year+".json")
     }
 }   
+
